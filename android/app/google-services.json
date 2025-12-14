@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1008276007753",
+    "firebase_url": "https://connectonic-live-default-rtdb.firebaseio.com",
+    "project_id": "connectonic-live",
+    "storage_bucket": "connectonic-live.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008276007753:android:5459ea10b39cd7940ec898",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008276007753-4dlof1cfc1piipetgpiqd0h8o77m40ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn7JtXmy5e20B9xpwIX-8Dn5MRq1CAsn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008276007753-4dlof1cfc1piipetgpiqd0h8o77m40ku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008276007753-cksva1nrktkg4gbhcvhrh7turopvgmf0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.connectonic.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
